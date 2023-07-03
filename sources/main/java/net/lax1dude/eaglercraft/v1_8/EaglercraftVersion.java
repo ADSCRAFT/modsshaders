@@ -25,7 +25,7 @@ public class EaglercraftVersion {
 	public static final String projectOriginRevision = "1.8";
 	public static final String projectOriginVersion = "u18";
 	
-	public static final String projectOriginURL = "https://gitlab.com/lax1dude/eaglercraftx-1.8";
+	public static final String projectOriginURL = "https://github.com/ADSCRAFT/modsshaders";
 	
 	
 	// Miscellaneous variables:
@@ -34,10 +34,10 @@ public class EaglercraftVersion {
 	public static final String mainMenuStringB = projectOriginName + " " +
 			projectOriginRevision + "-" + projectOriginVersion + " ultimate";
 	public static final String mainMenuStringC = "";
-	public static final String mainMenuStringD = "Resources Copyright Mojang AB";
+	public static final String mainMenuStringD = "Resources Copyright Mojang AB. Do not distribute!";
 
 	public static final String mainMenuStringE = projectForkName + " " + projectForkVersion;
-	public static final String mainMenuStringF = "Made by " + projectForkVendor;
+	public static final String mainMenuStringF = "Made by ADSCRAFT";
 
 	public static final String mainMenuStringG = "Collector's Edition";
 	public static final String mainMenuStringH = "PBR Shaders";
